@@ -48,6 +48,7 @@ Repositório-modelo para as equipes que escolheram **Java** no back-end do Conne
 ├── backend/                       API — monolito modular em Spring Boot
 ├── frontend/                      SPA em React, organizada por features
 ├── docs/
+│   ├── atividade-com-ia.md        atividade guiada de até 120 minutos com Azure Boards e IA
 │   ├── adr/                       registros de decisão de arquitetura
 │   └── exemplo/                   cenários Gherkin das fatias de exemplo
 └── infra/postgres/init/           cria o banco de teste na primeira inicialização
