@@ -260,7 +260,7 @@ A preparação descrita no [roteiro principal de sprint](https://github.com/enge
 | Sem Spring Security na Sprint 1 | A autenticação está fora da sprint. Com o starter, todas as rotas ficariam bloqueadas por padrão |
 | `UsuarioAtual` como API do módulo `identidade` | Os outros módulos não dependem de como a autenticação será feita |
 | Dependências da sprint já incluídas (validação, JPA, Flyway, React Hook Form, Zod) | As Tasks proíbem o agente de incluir dependências; o que a equipe precisa já está disponível |
-| Sem testes de ponta a ponta no navegador (Playwright) | Fora do escopo da Sprint 1; o roteiro da Atividade de Sprint exige verificação manual dos cenários na interface |
+| Sem testes de ponta a ponta no navegador (Playwright) | Fora do escopo da Sprint 1; o [roteiro principal de sprint (120 min)](https://github.com/engenharia-software-ia/atividade-sprint-connexa/blob/main/Roteiro_Sprint1_120min.md) exige verificação manual dos cenários na interface |
 | Versões fixas no `package.json` e no `pom.xml` | O build é reprodutível; atualizar é uma decisão registrada em ADR |
 
 ---
